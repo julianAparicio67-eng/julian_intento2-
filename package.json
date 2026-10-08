@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "aventuras-sangil",
   "version": "1.0.0",
   "main": "servidor-nativo.js",
@@ -11,7 +10,7 @@
   "license": "ISC",
   "description": ""
 }
-=======
+
   "dependencies": {
     "express": "^5.2.1"
   },
@@ -19,6 +18,6 @@
 "dev": "node --watch app.js",
 "start": "node app.js"
 }
-}
+
   
 >>>>>>> 4c13b9ecff9fa6011015e0a7d8b2ac414cac489a
